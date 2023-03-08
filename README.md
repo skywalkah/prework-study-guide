@@ -10,7 +10,7 @@ N/A
 
 ## Usage
 
-Open Devtools console on Chrom and you will see our JS running, refresh a few times to see a randombly chosen subject.
+Open Chrome developer tools console and you will see JS running. Refresh a few times to see a randombly chosen subject.
 
 ## Credits
 
